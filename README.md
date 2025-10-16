@@ -1,6 +1,6 @@
 # Welcome to the Automic Solutions Research Repository!
 
-This is where you can access our Research Wiki that describes our past,
+This is where you can access our Research Wiki describing our past,
 current and future areas of research. This is where all of our products
 and services originate.
 
